@@ -13,6 +13,9 @@ print(navn)
 print(alder)
 
 ```
+De to øverste linjene oppretter variabler som heter _navn_ og _alder_. Disse holder på verdiene "Lars" og 20.
+Funksjonen _print()_ viser verdiene på skjermen.
+
 
 Når du _kjører_ dette programmet vil du få følgende resultat i konsollen:
 
@@ -45,7 +48,7 @@ b = 5
 print(a+b)
 print(a-b)
 print(a*b)
-print(a/5)
+print(a/b)
 
 ```
 Legg merke til at i denne koden trenger vi bare å endre verdien i variablene _a_ og _b_ dersom vi ønsker å gjøre de samme operasjonene med andre tall.
