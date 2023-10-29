@@ -14,7 +14,7 @@ print(alder)
 
 ```
 
-Når du kjører dette programmet vil du få følgende resultat i konsollen:
+Når du _kjører_ dette programmet vil du få følgende resultat i konsollen:
 
 ```
 Hei
@@ -34,6 +34,8 @@ print(10/5)    # divisjon
 
 ```
 
+
+
 Ved hjelp av variabler kan vi gjøre dette på en mer effektiv og elegant måte:
 
 ```
@@ -46,3 +48,4 @@ print(a*b)
 print(a/5)
 
 ```
+Legg merke til at i denne koden trenger vi bare å endre verdien i variablene _a_ og _b_ dersom vi ønsker å gjøre de samme operasjonene med andre tall.
