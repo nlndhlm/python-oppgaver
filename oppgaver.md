@@ -2,6 +2,8 @@
 
 ## Før du starter:
 
+
+### Kodeeksempel
 ```
 navn = "Lars"
 alder = 20
