@@ -3,11 +3,19 @@
 ## Før du starter:
 
 ```
-navn = "Lars"    # en variabel som heter navn, som holder tekststrengen "Lars"
-alder = 20       # en variabel som heter alder, som holder heltallet 20
+navn = "Lars"    # oppretter en variabel som heter navn, som holder tekststrengen "Lars"
+alder = 20       # oppretter en variabel som heter alder, som holder heltallet 20
 
-print("Hei")     # printer tekststrengen "Hei" på skjermen
-print(navn)      # printer "Lars" på skjermen
-print(alder)     # printer tallet 20 på skjermen
+print("Hei")     # skriver tekststrengen "Hei" på skjermen
+print(navn)      # skriver verdien til variabelen navn på skjermen
+print(alder)     # skriver verdien til variabelen alder på skjermen
 
+```
+
+Når du kjører dette programmet vil du få følgende resultat i konsollen:
+
+```
+Hei
+Lars
+20
 ```
