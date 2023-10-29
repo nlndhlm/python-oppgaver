@@ -3,12 +3,14 @@
 ## Før du starter:
 
 ```
-navn = "Lars"    # oppretter en variabel som heter navn, som holder tekststrengen "Lars"
-alder = 20       # oppretter en variabel som heter alder, som holder heltallet 20
+navn = "Lars"
+alder = 20
 
-print("Hei")     # skriver tekststrengen "Hei" på skjermen
-print(navn)      # skriver verdien til variabelen navn på skjermen
-print(alder)     # skriver verdien til variabelen alder på skjermen
+
+
+print("Hei")
+print(navn)
+print(alder)
 
 ```
 
@@ -32,7 +34,7 @@ print(10/5)    # divisjon
 
 ```
 
-Ved hjelp av variabler kan vi gjøre dette på en mer effektiv elegant måte:
+Ved hjelp av variabler kan vi gjøre dette på en mer effektiv og elegant måte:
 
 ```
 a = 10
