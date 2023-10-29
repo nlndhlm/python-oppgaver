@@ -3,7 +3,7 @@
 ## Før du starter:
 
 
-### Kodeeksempel
+#### Kodeeksempel 1
 ```
 navn = "Lars"
 alder = 20
